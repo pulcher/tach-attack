@@ -1,0 +1,1 @@
+Update symbol U1 from 'easyeda2kicad:HS96L03W2C03' to 'easyeda2kicad:HS96L03W2C03': OK
